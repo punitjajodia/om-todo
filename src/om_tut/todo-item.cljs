@@ -1,4 +1,4 @@
-(ns ^:figwheel-always om-tut.item
+(ns om-tut.item
   (:require [om.core :as om :include-macros true]
             [sablono.core :refer-macros [html]]
             [om-tools.core :refer-macros [defcomponent]]))

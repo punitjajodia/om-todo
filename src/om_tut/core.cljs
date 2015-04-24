@@ -2,7 +2,7 @@
   (:require[om.core :as om :include-macros true]
            [sablono.core :refer-macros [html]]
            [alandipert.storage-atom :refer [local-storage]]
-           [om-tut.item :refer [todo-item]]))
+           [om-tut.todo-item :refer [todo-item]]))
 
 (enable-console-print!)
 

@@ -49,5 +49,5 @@
      (html [:li {:class "flex-item"}
             (om/build todo-checkbox todo)
             (om/build todo-text todo)
-            (om/build delete-todo todo)
+           ; (om/build delete-todo todo)
             ])))
